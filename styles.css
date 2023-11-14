@@ -1,4 +1,5 @@
-body {background: black;}
+body {background: black;
+padding: 20px}
 .post {background: white;
 width: 500px;
 margin: auto;
