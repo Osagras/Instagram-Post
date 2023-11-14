@@ -1,0 +1,24 @@
+body {background: black;}
+.post {background: white;
+width: 500px;
+margin: auto;
+font-family: 'Roboto';}
+
+.post-header {display: flex;
+padding: 10px;}
+.post-header :first-child {font-size: 22px;margin: auto;}
+.post-header :nth-child(2) {width: 90%;}
+.post-header :last-child {margin: auto}
+
+
+
+img {width: 480px; padding: 0px 10px;
+}
+
+.post-icons {padding: 5px 15px 10px;
+font-size: 22px;}
+.post-icons :nth-child(3) {width: 82%;}
+
+p {padding: 0px 10px 10px 10px;
+margin: auto}
+
